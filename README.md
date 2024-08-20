@@ -4,4 +4,4 @@
 
 **Below is the screenshot of the final dashboard**
 
-![Test Image 1]FinalDashboard.png
+![Test Image 1][FinalDashboard.png](https://github.com/SanghviPrabhakar/US-Regional-Sales-Analysis-using-PowerBI/blob/main/FinalDashboard.png)
